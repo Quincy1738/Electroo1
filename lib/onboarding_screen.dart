@@ -25,7 +25,7 @@ class OnboardingScreen extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       Text(
-                        'electroLex',
+                        'ElectroLex',
                         style: TextStyle(
                           fontSize: 40,
                           fontWeight: FontWeight.bold,
